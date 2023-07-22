@@ -1,4 +1,4 @@
-### Hi there 👋 my nam is Dylan! Welcome to my github
+### Hi there 👋 my name is Dylan! Welcome to my github
 <!--
 **dburnham1212/dburnham1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
